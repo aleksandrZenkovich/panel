@@ -1,0 +1,17 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+@import "common/_common-all.scss";
+@import "common/_page-xs.scss";
+@import "common/_page-md.scss";
+@import "common/_dashboard.scss";
+
+@import "components/_event-program.scss";
+@import "components/_nav-sidebar.scss";
+@import "components/_gifts-list.scss";
+@import "components/_guests-table.scss";
+@import "components/_seating-places.scss";
+@import "components/_mailing.scss";
+@import "components/_home-menu.scss";
